@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: ff7c5a2bc58b9bf469eef4e464652eb7
+timeCreated: 1453726767
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HeavyTank_Body
+    100004: HeavyTank_MainTurret
+    100006: HeavyTank_MissileLaunchers
+    100008: HeavyTank_MissileTurret
+    100010: HeavyTank_SmallTurret_BL
+    100012: HeavyTank_SmallTurret_BR
+    100014: HeavyTank_SmallTurret_FL
+    100016: HeavyTank_SmallTurret_FR
+    100018: HeavyTank_Tracks
+    100020: HeavyTank_Wheel_1
+    100022: HeavyTank_Wheel_10
+    100024: HeavyTank_Wheel_11
+    100026: HeavyTank_Wheel_12
+    100028: HeavyTank_Wheel_2
+    100030: HeavyTank_Wheel_3
+    100032: HeavyTank_Wheel_4
+    100034: HeavyTank_Wheel_5
+    100036: HeavyTank_Wheel_6
+    100038: HeavyTank_Wheel_7
+    100040: HeavyTank_Wheel_8
+    100042: HeavyTank_Wheel_9
+    400000: //RootNode
+    400002: HeavyTank_Body
+    400004: HeavyTank_MainTurret
+    400006: HeavyTank_MissileLaunchers
+    400008: HeavyTank_MissileTurret
+    400010: HeavyTank_SmallTurret_BL
+    400012: HeavyTank_SmallTurret_BR
+    400014: HeavyTank_SmallTurret_FL
+    400016: HeavyTank_SmallTurret_FR
+    400018: HeavyTank_Tracks
+    400020: HeavyTank_Wheel_1
+    400022: HeavyTank_Wheel_10
+    400024: HeavyTank_Wheel_11
+    400026: HeavyTank_Wheel_12
+    400028: HeavyTank_Wheel_2
+    400030: HeavyTank_Wheel_3
+    400032: HeavyTank_Wheel_4
+    400034: HeavyTank_Wheel_5
+    400036: HeavyTank_Wheel_6
+    400038: HeavyTank_Wheel_7
+    400040: HeavyTank_Wheel_8
+    400042: HeavyTank_Wheel_9
+    2300000: HeavyTank_Body
+    2300002: HeavyTank_MainTurret
+    2300004: HeavyTank_MissileLaunchers
+    2300006: HeavyTank_MissileTurret
+    2300008: HeavyTank_SmallTurret_BL
+    2300010: HeavyTank_SmallTurret_BR
+    2300012: HeavyTank_SmallTurret_FL
+    2300014: HeavyTank_SmallTurret_FR
+    2300016: HeavyTank_Tracks
+    2300018: HeavyTank_Wheel_1
+    2300020: HeavyTank_Wheel_10
+    2300022: HeavyTank_Wheel_11
+    2300024: HeavyTank_Wheel_12
+    2300026: HeavyTank_Wheel_2
+    2300028: HeavyTank_Wheel_3
+    2300030: HeavyTank_Wheel_4
+    2300032: HeavyTank_Wheel_5
+    2300034: HeavyTank_Wheel_6
+    2300036: HeavyTank_Wheel_7
+    2300038: HeavyTank_Wheel_8
+    2300040: HeavyTank_Wheel_9
+    3300000: HeavyTank_Body
+    3300002: HeavyTank_MainTurret
+    3300004: HeavyTank_MissileLaunchers
+    3300006: HeavyTank_MissileTurret
+    3300008: HeavyTank_SmallTurret_BL
+    3300010: HeavyTank_SmallTurret_BR
+    3300012: HeavyTank_SmallTurret_FL
+    3300014: HeavyTank_SmallTurret_FR
+    3300016: HeavyTank_Tracks
+    3300018: HeavyTank_Wheel_1
+    3300020: HeavyTank_Wheel_10
+    3300022: HeavyTank_Wheel_11
+    3300024: HeavyTank_Wheel_12
+    3300026: HeavyTank_Wheel_2
+    3300028: HeavyTank_Wheel_3
+    3300030: HeavyTank_Wheel_4
+    3300032: HeavyTank_Wheel_5
+    3300034: HeavyTank_Wheel_6
+    3300036: HeavyTank_Wheel_7
+    3300038: HeavyTank_Wheel_8
+    3300040: HeavyTank_Wheel_9
+    4300000: HeavyTank_MainTurret
+    4300002: HeavyTank_Wheel_8
+    4300004: HeavyTank_Wheel_12
+    4300006: HeavyTank_Wheel_7
+    4300008: HeavyTank_MissileLaunchers
+    4300010: HeavyTank_Wheel_11
+    4300012: HeavyTank_MissileTurret
+    4300014: HeavyTank_Tracks
+    4300016: HeavyTank_Wheel_2
+    4300018: HeavyTank_Wheel_1
+    4300020: HeavyTank_Wheel_6
+    4300022: HeavyTank_Wheel_3
+    4300024: HeavyTank_Wheel_4
+    4300026: HeavyTank_Wheel_5
+    4300028: HeavyTank_SmallTurret_BR
+    4300030: HeavyTank_Wheel_9
+    4300032: HeavyTank_Wheel_10
+    4300034: HeavyTank_SmallTurret_FL
+    4300036: HeavyTank_SmallTurret_BL
+    4300038: HeavyTank_SmallTurret_FR
+    4300040: HeavyTank_Body
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
