@@ -27,13 +27,13 @@ EditorBuildSettings:
     path: Assets/Experimental/BUILD/Game.unity
     guid: 8534e44be352fdd4bb83de77f272ce2f
   - enabled: 1
-    path: Assets/Experimental/BUILD/LoadingMenu.unity
+    path: Assets/Experimental/Scenes/LoadingMenu.unity
     guid: d56966ccea431464ca3748007a78fba4
   - enabled: 1
-    path: Assets/Experimental/BUILD/Menu.unity
+    path: Assets/Experimental/Scenes/Menu.unity
     guid: 0e019209f273e1b478039354835721d9
   - enabled: 1
-    path: Assets/Experimental/BUILD/Game.unity
+    path: Assets/Experimental/Scenes/Game.unity
     guid: 56e46773863eb7c4ca0fcd31f8f04107
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5e735b9165497fe4bab0aa44aea2c151,
