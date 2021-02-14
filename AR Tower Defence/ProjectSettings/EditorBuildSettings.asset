@@ -5,34 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/LoadingMenu.unity
     guid: ee9d0ec8855af3b4ba38907942672978
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 76adf35dc83527e3fb32095df16fee3c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 624cdfc308e3ec0079e30b32af0ce219
   - enabled: 0
     path: Assets/Sample.unity
     guid: cfecc6a7a7485aced90b5ce899e441aa
   - enabled: 0
-    path: Assets/Experimental/BUILD/LoadingMenu.unity
-    guid: 455d9a71aac2d704eaa59a0633ef6d27
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Experimental/BUILD/Menu.unity
-    guid: 5a15ce542ef885b44a01e93dbf02cd0e
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Experimental/BUILD/Game.unity
-    guid: 8534e44be352fdd4bb83de77f272ce2f
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Experimental/Scenes/LoadingMenu.unity
     guid: d56966ccea431464ca3748007a78fba4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Experimental/Scenes/Menu.unity
     guid: 0e019209f273e1b478039354835721d9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Experimental/Scenes/Game.unity
     guid: 56e46773863eb7c4ca0fcd31f8f04107
   m_configObjects:
