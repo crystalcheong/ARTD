@@ -7,7 +7,7 @@
   <a href="https://github.com/crystalcheong/ARTD/releases/download/v1.1/ARTD.apk"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p> 
 <p align="center">
-  <img src="https://github.com/crystalcheong/ARTD/blob/master/Screenshots/Mockup.png" alt="Screenshot" height="200" width="auto"/>
+  <img src="https://user-images.githubusercontent.com/65748007/200744450-1a2a026c-b62b-41e9-b46a-3fd9d5051a84.png" alt="Screenshot" height="200" width="auto"/>
 </p>
 <p align="center"><em>Requries Android 7.0+ with ARCore support</em></p>
 
